@@ -14,3 +14,9 @@ __Today's Progress :__
 __Today's Progress :__
 * Completed Week 3 of Ng's course.
 * Implemented Neural Net with one hidden layer. [Link](https://github.com/nikhil-seth/100DaysOfMLCode/commit/a4e2c56acad2f2e7ec80c92341dee5c428796022)
+
+
+### Day 4: 07.07.18
+__Today's Progress :__
+* Completed Course 1 of Deep Learning Specialization.
+* Implemented Neural Net with Multiple Layers. [Link To Commit](https://github.com/nikhil-seth/100DaysOfMLCode/commit/ab73726be2d1ad8aada9c53c6a7f52d1fa99a7a9)
