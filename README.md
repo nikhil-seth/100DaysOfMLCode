@@ -18,5 +18,5 @@ __Today's Progress :__
 
 ### Day 4: 07.07.18
 __Today's Progress :__
-* Completed Course 1 of Deep Learning Specialization.
+* Completed Course 1 of Deep Learning Specialization.[Link to Certificate](https://t.co/f7jHolToXr)
 * Implemented Neural Net with Multiple Layers. [Link To Commit](https://github.com/nikhil-seth/100DaysOfMLCode/commit/ab73726be2d1ad8aada9c53c6a7f52d1fa99a7a9)
