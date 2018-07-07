@@ -9,3 +9,8 @@ Log Repository for 100 Days of ML Code Challenge
 __Today's Progress :__
 * Started With Week 3 of Andrew Ng's course.
 * Implemented Linear Regression Repository.
+
+### Day 3: 06.07.18
+__Today's Progress :__
+* Completed Week 3 of Ng's course.
+* Implemented Neural Net with one hidden layer. [Link](https://github.com/nikhil-seth/100DaysOfMLCode/commit/a4e2c56acad2f2e7ec80c92341dee5c428796022)
