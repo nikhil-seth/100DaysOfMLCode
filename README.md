@@ -20,3 +20,8 @@ __Today's Progress :__
 __Today's Progress :__
 * Completed Course 1 of Deep Learning Specialization.[Link to Certificate](https://t.co/f7jHolToXr)
 * Implemented Neural Net with Multiple Layers. [Link To Commit](https://github.com/nikhil-seth/100DaysOfMLCode/commit/ab73726be2d1ad8aada9c53c6a7f52d1fa99a7a9)
+
+### Day 5: 08.07.18
+__Today's Progress :__
+* Applied For Coursera's Financial Aid for Deep Learning specialization.
+* Implemented Logistics Regression from Scratch. [Link To Commit](https://t.co/HLBln56lWm)
