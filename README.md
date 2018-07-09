@@ -25,3 +25,8 @@ __Today's Progress :__
 __Today's Progress :__
 * Applied For Coursera's Financial Aid for Deep Learning specialization.
 * Implemented Logistics Regression from Scratch. [Link To Commit](https://t.co/HLBln56lWm)
+
+### Day 6: 09.07.18
+__Today's Progress :__
+* Did some basic HTML from FreeCodeCamp.
+* Read some topics from book on Deep Learning by [Valentino Zocca](https://twitter.com/ItalyHighTech)
