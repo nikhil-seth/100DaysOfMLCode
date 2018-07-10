@@ -33,4 +33,7 @@ __Today's Progress :__
 
 ### Day 7: 10.07.18
 __Today's Progress :__
+* Made a twitter bot in python ,for 100 Days of ML Code.
+* [Link to bot Profile](https://twitter.com/100DaysOfMLCode)
+* Practiced a little bit of Linear Algebra.
 
