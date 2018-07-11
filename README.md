@@ -37,3 +37,8 @@ __Today's Progress :__
 * [Link to bot Profile](https://twitter.com/100DaysOfMLCode)
 * Practiced a little bit of Linear Algebra.
 
+### Day 8: 11.07.18
+__Today's Progress :__
+* Started Google ML Crash Course.
+* Applied some examples from Tensorflow Documentation.
+
