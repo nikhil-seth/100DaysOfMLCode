@@ -42,3 +42,6 @@ __Today's Progress :__
 * Started Google ML Crash Course.
 * Applied some examples from Tensorflow Documentation.
 
+### Day 9: 12.07.18
+__Today's Progress :__
+* Completed Google ML Crash Course.
