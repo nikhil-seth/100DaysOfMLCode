@@ -45,3 +45,7 @@ __Today's Progress :__
 ### Day 9: 12.07.18
 __Today's Progress :__
 * Completed Google ML Crash Course.
+
+### Day 10: 13.07.18
+__Today's Progress :__
+* Understood docs of @scikit_learn library. Implemented all Ensemble methods & Linear Regression Methods Available.
