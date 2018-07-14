@@ -49,3 +49,8 @@ __Today's Progress :__
 ### Day 10: 13.07.18
 __Today's Progress :__
 * Understood docs of @scikit_learn library. Implemented all Ensemble methods & Linear Regression Methods Available.
+
+### Day 11: 14.07.18
+__Today's Progress :__
+* Revised all the things done in last 10 days.
+* Read tutorials on how to implement __Dropout Regularization__
