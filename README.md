@@ -54,3 +54,13 @@ __Today's Progress :__
 __Today's Progress :__
 * Revised all the things done in last 10 days.
 * Read tutorials on how to implement __Dropout Regularization__
+
+### Day 12: 15.07.18
+__Today's Progress :__
+* Setup Torch, keras & other libraries for Deep Learning.
+* Completed FreeCodeCamp's HTML course.
+
+### Day 13: 16.07.18
+__Today's Progress :__
+* Applied Keras Implementation to MNIST Dataset.
+* Got a rank of 1.2k on Kaggle Competition on Digit Recognizer.
