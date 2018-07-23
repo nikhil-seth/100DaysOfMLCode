@@ -69,8 +69,19 @@ __Today's Progress :__
 __Today's Progress :__
 * Watched 2 parts of http://fast.ai  course on CNN.
 
-### Day 14: 17.07.18
+### Day 15: 18.07.18
 __Today's Progress :__
 * Built SVM classifier from scratch using Hinge Loss. [Link to Commit](https://github.com/nikhil-seth/ML-Models-from-scratch/commit/ec65146a1ac308b582035ae7a8b4e2b9bfd37e80)
 * Started with @sirajraval 's Math of Intelligence Series.
+
+
+### Day 16: 19.07.18
+__Today's Progress :__
+* Understood Newton's Method for second order Optimization.
+* Did 2 projects from freeCodecamp
+
+### Day 17: 23.07.18
+__Today's Progress :__
+* Implemented He Initialization on dataset & noted the difference between Random & He Initialization on Neural Net.
+
 
