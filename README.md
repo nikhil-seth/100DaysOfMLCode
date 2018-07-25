@@ -84,4 +84,17 @@ __Today's Progress :__
 __Today's Progress :__
 * Implemented He Initialization on dataset & noted the difference between Random & He Initialization on Neural Net.
 
+### Day 18: 24.07.18
+__Today's Progress :__
+* Completed Week 01 of DeepLearning Specialization.
+* Implemented He initialization on dataset.
 
+
+### Day 19: 25.07.18
+__Today's Progress :__
+* Completed Course 02 of  DeepLearning Specialization.
+* Implemented Batch Normalization.
+* Used SIGNS dataset to train a Vanilla Neural Net & got 72% accuracy.
+
+__Thoughts:__
+*  Would try to complete the whole specialization before 1st Aug.
