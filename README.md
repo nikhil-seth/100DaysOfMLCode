@@ -98,3 +98,14 @@ __Today's Progress :__
 
 __Thoughts:__
 *  Would try to complete the whole specialization before 1st Aug.
+
+### Day 20: 26.07.18
+__Today's Progress :__
+* Completed Course 03 of  DeepLearning Specialization.
+* Working on implementing Basic Neural Net on MNIST dataset using TensorFlow.
+
+### Day 21: 27.07.18
+__Today's Progress :__
+* Started with CNN course of  DeepLearning Specialization.
+* Implemented Simple Neural Net on MNIST dataset.
+* Having Variance problem,got 62% of accuracy on MNIST dataset.
