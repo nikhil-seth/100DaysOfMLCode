@@ -74,7 +74,6 @@ __Today's Progress :__
 * Built SVM classifier from scratch using Hinge Loss. [Link to Commit](https://github.com/nikhil-seth/ML-Models-from-scratch/commit/ec65146a1ac308b582035ae7a8b4e2b9bfd37e80)
 * Started with @sirajraval 's Math of Intelligence Series.
 
-
 ### Day 16: 19.07.18
 __Today's Progress :__
 * Understood Newton's Method for second order Optimization.
@@ -88,7 +87,6 @@ __Today's Progress :__
 __Today's Progress :__
 * Completed Week 01 of DeepLearning Specialization.
 * Implemented He initialization on dataset.
-
 
 ### Day 19: 25.07.18
 __Today's Progress :__
@@ -109,3 +107,26 @@ __Today's Progress :__
 * Started with CNN course of  DeepLearning Specialization.
 * Implemented Simple Neural Net on MNIST dataset.
 * Having Variance problem,got 62% of accuracy on MNIST dataset.
+
+### Day 22: 28.07.18
+__Today's Progress :__
+* Completed Week 1 of CNN Course.
+* Made a CNN from Scratch.
+* Trained CNN on SIGNS dataset in tensorflow.
+
+### Day 23: 29.07.18
+__Today's Progress :__
+* Completed week 2 of CNN course.
+* Tried to understand some kernels on Kaggle. 
+
+### Day 24: 30.07.18
+__Today's Progress :__
+* Completed Week 3 of CNN course.
+
+__Thoughts :__ 
+* Speed would be slower now as I've to give time to my college😭😪
+
+### Day 25: 31.07.18
+__Today's Progress :__
+* Completed CNN Course.
+* Implemented a Neural Style Transfer on Image.
