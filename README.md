@@ -130,3 +130,15 @@ __Thoughts :__
 __Today's Progress :__
 * Completed CNN Course.
 * Implemented a Neural Style Transfer on Image.
+
+### Day 26: 01.08.18
+__Today's Progress :__
+* Started working on a kernel with MNIST dataset.
+
+### Day 27: 02.08.18
+__Today's Progress :__
+* Worked on MNIST dataset & finally got 99.742 on MNIST dataset.
+* Learned how to implement Layers in keras.
+* Would be trying Elastic Collisions Augmentation on the dataset
+* Notebook in folder of Day 27.
+
