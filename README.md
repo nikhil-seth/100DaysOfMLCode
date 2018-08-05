@@ -142,3 +142,14 @@ __Today's Progress :__
 * Would be trying Elastic Collisions Augmentation on the dataset
 * Notebook in folder of Day 27.
 
+### Day 28: 03.08.18
+__Today's Progress :__
+* Revised all things done in past 15 days.
+
+### Day 29: 04.08.18
+__Today's Progress :__
+* Revised all things done in past 15 days.
+
+### Day 30: 05.08.18
+__Today's Progress :__
+* Started with Sequence Models.
