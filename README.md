@@ -153,3 +153,52 @@ __Today's Progress :__
 ### Day 30: 05.08.18
 __Today's Progress :__
 * Started with Sequence Models.
+
+### Day 31: 07.08.18
+__Today's Progress :__
+* Started with a competition.
+* Completed week 01 of RNN
+
+### Day 32: 08.08.18
+__Today's Progress :__
+* Engrossed in @hackerrank Competition for Data science.
+
+### Day 33: 09.08.18
+__Today's Progress :__
+* Engrossed in @hackerrank Competition for Data science.
+
+### Day 34: 10.08.18
+__Today's Progress :__
+* Stuck at wondering how to use the Image dataset having Images with 1920x1080 size to 100x100 in the dataset.
+
+### Day 35: 16.08.18
+__Today's Progress :__
+* Would be working on Neural Style algorithm for next few Days.
+
+### Day 36: 17.08.18
+__Today's Progress :__
+* Read 2 Research papers on Neural Art
+* Studied about VGG19 Network
+
+### Day 37: 18.08.18
+__Today's Progress :__
+* Successfully made a Neural Style Transfer Model
+* Would be Upgrading it for Multiple Styles with help of Research Paper by Shubhang Desai.
+
+### Day 38: 19.08.18
+__Today's Progress :__
+* Completed Week 02 of Sequence Models
+
+### Day 39: 20.08.18
+__Today's Progress :__
+* Completed Week 02 of Sequence Models
+
+### Day 40: 21.08.18
+__Today's Progress :__
+* Made a sentiment Classifier using LSTM.
+
+### Day 41: 22.08.18
+__Today's Progress :__
+* Completed http://deeplearning.ai  Course at @coursera 
+* Implemented Trigger Word Detector
+
